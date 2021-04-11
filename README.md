@@ -30,4 +30,4 @@ https://amohamed77.github.io/Work-Scheduler/
 
 
 ## Application
-![(./assets/Screenshot)]
+![(./assets/Screenshot.png)]
